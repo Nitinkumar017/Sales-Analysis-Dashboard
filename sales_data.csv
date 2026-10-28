@@ -1,0 +1,856 @@
+Date,Product,Product Category,Region,Quantity,Unit Price,Sales Revenue,Customer Segment
+2024-01-01,Polarized Sunglasses,Accessories,South,8.0,64.96,519.68,Home Office
+2024-01-07,Gaming Mouse,Electronics,West,2.0,47.82,95.64,Home Office
+2024-01-07,Adjustable Standing Desk,Furniture,North,1.0,358.33,358.33,Home Office
+2024-01-07,Organic Coffee Roast 1kg,Food & Beverages,East,1.0,26.63,26.63,Corporate
+2024-01-09,Wireless Earbuds,Electronics,East,2.0,90.69,181.38,Consumer
+2024-01-09,Wireless Earbuds,Electronics,North,1.0,93.42,93.42,Home Office
+2024-01-10,Wooden Bookshelf,Furniture,South,1.0,145.59,145.59,Corporate
+2024-01-11,Formal Oxford Shirt,Clothing,East,2.0,49.79,99.58,Corporate
+2024-01-11,4K Smart Monitor,Electronics,West,3.0,351.5,1054.5,Corporate
+2024-01-13,Athletic Running Shoes,Clothing,South,1.0,88.36,88.36,Home Office
+2024-01-14,Ergonomic Office Chair,Furniture,South,3.0,220.83,662.49,Home Office
+2024-01-14,Formal Oxford Shirt,Clothing,South,5.0,50.19,250.95,Home Office
+2024-01-14,Cotton Crew T-Shirt,Clothing,North,5.0,24.66,123.3,Corporate
+2024-01-15,Smart Fitness Watch,Electronics,South,1.0,185.64,185.64,Consumer
+2024-01-15,Modular 2-Seat Sofa,Furniture,West,6.0,495.77,2974.62,Corporate
+2024-01-16,Organic Coffee Roast 1kg,Food & Beverages,West,10.0,25.17,251.7,Consumer
+2024-01-16,Organic Coffee Roast 1kg,Food & Beverages,West,2.0,25.66,51.32,Corporate
+2024-01-16,Modular 2-Seat Sofa,Furniture,West,1.0,522.82,522.82,Consumer
+2024-01-17,Polarized Sunglasses,Accessories,East,1.0,61.04,61.04,Home Office
+2024-01-17,Gourmet Snack Basket,Food & Beverages,East,1.0,36.19,36.19,Consumer
+2024-01-18,Smartphone X,Electronics,South,2.0,686.49,1372.98,Home Office
+2024-01-18,Premium Dark Chocolate,Food & Beverages,South,1.0,23.09,23.09,Consumer
+2024-01-19,Premium Dark Chocolate,Food & Beverages,East,2.0,22.78,45.56,Consumer
+2024-01-20,Laptop Pro 15,Electronics,East,1.0,992.92,992.92,Home Office
+2024-01-21,Leather Travel Wallet,Accessories,East,3.0,44.0,132.0,Consumer
+2024-01-21,Gaming Mouse,Electronics,South,3.0,49.23,147.69,Home Office
+2024-01-21,Polarized Sunglasses,Accessories,West,2.0,64.97,129.94,Corporate
+2024-01-22,Wireless Earbuds,Electronics,East,3.0,86.0,258.0,Home Office
+2024-01-22,Denim Jeans,Clothing,West,6.0,56.64,339.84,Consumer
+2024-01-22,Formal Oxford Shirt,Clothing,West,4.0,49.19,196.76,Home Office
+2024-01-22,Wooden Bookshelf,Furniture,East,2.0,139.9,279.8,Consumer
+2024-01-23,Athletic Running Shoes,Clothing,South,3.0,81.44,244.32,Home Office
+2024-01-23,Premium Dark Chocolate,Food & Beverages,South,1.0,21.2,21.2,Consumer
+2024-01-23,Waterproof Laptop Backpack,Accessories,South,1.0,66.8,66.8,Corporate
+2024-01-24,Formal Oxford Shirt,Clothing,West,1.0,45.74,45.74,Home Office
+2024-01-26,Adjustable Standing Desk,Furniture,West,1.0,337.2,337.2,Consumer
+2024-01-26,Waterproof Laptop Backpack,Accessories,South,1.0,70.36,70.36,Consumer
+2024-01-27,Organic Coffee Roast 1kg,Food & Beverages,North,5.0,27.07,135.35,Consumer
+2024-01-28,Cotton Crew T-Shirt,Clothing,West,3.0,24.12,72.36,Corporate
+2024-01-28,Winter Hooded Jacket,Clothing,South,2.0,116.02,232.04,Home Office
+2024-01-29,Premium Dark Chocolate,Food & Beverages,West,1.0,20.97,20.97,Corporate
+2024-01-29,Smart Fitness Watch,Electronics,East,4.0,186.16,744.64,Home Office
+2024-01-29,Ergonomic Office Chair,Furniture,West,8.0,239.32,1914.56,Consumer
+2024-01-29,Formal Oxford Shirt,Clothing,South,2.0,45.97,91.94,Consumer
+2024-01-30,Formal Oxford Shirt,Clothing,North,4.0,50.4,201.6,Home Office
+2024-01-30,Ergonomic Office Chair,Furniture,South,4.0,237.93,951.72,Consumer
+2024-01-31,Athletic Running Shoes,Clothing,North,3.0,85.71,257.13,Corporate
+2024-02-01,Smart Fitness Watch,Electronics,West,2.0,171.23,342.46,Home Office
+2024-02-02,Polarized Sunglasses,Accessories,East,2.0,60.87,121.74,Home Office
+2024-02-02,Athletic Running Shoes,Clothing,North,1.0,83.92,83.92,Home Office
+2024-02-02,Leather Travel Wallet,Accessories,West,1.0,42.68,42.68,Home Office
+2024-02-04,Polarized Sunglasses,Accessories,North,1.0,67.12,67.12,Consumer
+2024-02-04,Gourmet Snack Basket,Food & Beverages,West,1.0,37.86,37.86,Home Office
+2024-02-04,Wireless Earbuds,Electronics,South,3.0,91.04,273.12,Corporate
+2024-02-05,Cotton Crew T-Shirt,Clothing,West,6.0,23.4,140.4,Consumer
+2024-02-05,Laptop Pro 15,Electronics,South,3.0,983.18,2949.54,Consumer
+2024-02-06,Formal Oxford Shirt,Clothing,East,3.0,46.01,138.03,Corporate
+2024-02-07,Modular 2-Seat Sofa,Furniture,North,2.0,532.76,1065.52,Home Office
+2024-02-07,Wireless Earbuds,Electronics,North,1.0,86.51,86.51,Corporate
+2024-02-08,Gaming Mouse,Electronics,North,2.0,47.64,95.28,Corporate
+2024-02-09,Athletic Running Shoes,Clothing,South,2.0,80.83,161.66,Home Office
+2024-02-10,Adjustable Standing Desk,Furniture,West,1.0,365.7,365.7,Home Office
+2024-02-11,Green Tea Herbal Box,Food & Beverages,East,1.0,17.24,17.24,Corporate
+2024-02-11,Gaming Mouse,Electronics,North,10.0,50.24,502.4,Consumer
+2024-02-12,Green Tea Herbal Box,Food & Beverages,South,4.0,17.73,70.92,Consumer
+2024-02-14,Smart Fitness Watch,Electronics,East,2.0,175.86,351.72,Home Office
+2024-02-14,Modular 2-Seat Sofa,Furniture,West,1.0,529.88,529.88,Corporate
+2024-02-14,Gaming Mouse,Electronics,West,1.0,46.7,46.7,Consumer
+2024-02-15,Athletic Running Shoes,Clothing,West,1.0,85.15,85.15,Consumer
+2024-02-16,Insulated Thermal Flask,Accessories,North,2.0,27.5,55.0,Home Office
+2024-02-16,Modular 2-Seat Sofa,Furniture,North,12.0,522.88,6274.56,Corporate
+2024-02-16,Cotton Crew T-Shirt,Clothing,South,1.0,24.44,24.44,Home Office
+2024-02-17,Smartphone X,Electronics,East,3.0,673.79,2021.37,Corporate
+2024-02-17,Adjustable Standing Desk,Furniture,South,5.0,343.59,1717.95,Corporate
+2024-02-18,Athletic Running Shoes,Clothing,East,1.0,84.73,84.73,Corporate
+2024-02-19,Gourmet Snack Basket,Food & Beverages,South,4.0,39.16,156.64,Home Office
+2024-02-19,Athletic Running Shoes,Clothing,East,1.0,87.05,87.05,Consumer
+2024-02-21,Polarized Sunglasses,Accessories,West,1.0,63.34,63.34,Consumer
+2024-02-21,Cotton Crew T-Shirt,Clothing,East,4.0,24.3,97.2,Home Office
+2024-02-21,Modular 2-Seat Sofa,Furniture,East,3.0,501.25,1503.75,Consumer
+2024-02-22,4K Smart Monitor,Electronics,East,4.0,330.22,1320.88,Corporate
+2024-02-22,Ergonomic Office Chair,Furniture,East,2.0,235.94,471.88,Consumer
+2024-02-22,Insulated Thermal Flask,Accessories,East,8.0,27.87,222.96,Home Office
+2024-02-22,Insulated Thermal Flask,Accessories,East,3.0,29.11,87.33,Corporate
+2024-02-23,Formal Oxford Shirt,Clothing,North,1.0,50.07,50.07,Consumer
+2024-02-24,Gaming Mouse,Electronics,North,3.0,48.56,145.68,Home Office
+2024-02-24,Laptop Pro 15,Electronics,West,3.0,991.5,2974.5,Corporate
+2024-02-24,Insulated Thermal Flask,Accessories,East,2.0,29.28,58.56,Home Office
+2024-02-24,Cotton Crew T-Shirt,Clothing,South,3.0,23.78,71.34,Home Office
+2024-02-24,Formal Oxford Shirt,Clothing,West,3.0,48.79,146.37,Corporate
+2024-02-25,Smart Fitness Watch,Electronics,West,3.0,172.38,517.14,Corporate
+2024-02-27,Waterproof Laptop Backpack,Accessories,North,1.0,67.38,67.38,Home Office
+2024-02-27,Insulated Thermal Flask,Accessories,West,1.0,27.76,27.76,Home Office
+2024-02-28,Gourmet Snack Basket,Food & Beverages,East,5.0,38.11,190.55,Home Office
+2024-02-28,Premium Dark Chocolate,Food & Beverages,North,12.0,22.94,275.28,Home Office
+2024-02-29,Adjustable Standing Desk,Furniture,West,2.0,358.11,716.22,Corporate
+2024-02-29,Smartphone X,Electronics,North,5.0,673.48,3367.4,Consumer
+2024-03-01,Leather Travel Wallet,Accessories,North,2.0,42.97,85.94,Home Office
+2024-03-01,Laptop Pro 15,Electronics,North,3.0,975.16,2925.48,Corporate
+2024-03-01,Smart Fitness Watch,Electronics,West,2.0,183.23,366.46,Home Office
+2024-03-02,Polarized Sunglasses,Accessories,South,3.0,67.14,201.42,Consumer
+2024-03-03,Cotton Crew T-Shirt,Clothing,South,3.0,23.33,69.99,Consumer
+2024-03-03,Modular 2-Seat Sofa,Furniture,North,2.0,543.07,1086.14,Consumer
+2024-03-03,Cotton Crew T-Shirt,Clothing,South,2.0,22.92,45.84,Consumer
+2024-03-04,Formal Oxford Shirt,Clothing,West,1.0,48.15,48.15,Corporate
+2024-03-05,Wireless Earbuds,Electronics,West,1.0,90.6,90.6,Consumer
+2024-03-05,4K Smart Monitor,Electronics,North,2.0,332.98,665.96,Home Office
+2024-03-07,Winter Hooded Jacket,Clothing,East,1.0,121.45,121.45,Corporate
+2024-03-08,Laptop Pro 15,Electronics,South,1.0,939.65,939.65,Corporate
+2024-03-08,Polarized Sunglasses,Accessories,East,1.0,62.3,62.3,Consumer
+2024-03-08,Ergonomic Office Chair,Furniture,East,2.0,236.36,472.72,Consumer
+2024-03-11,Green Tea Herbal Box,Food & Beverages,West,1.0,18.53,18.53,Consumer
+2024-03-12,Cotton Crew T-Shirt,Clothing,North,6.0,23.97,143.82,Home Office
+2024-03-12,Adjustable Standing Desk,Furniture,East,1.0,363.21,363.21,Corporate
+2024-03-12,Gourmet Snack Basket,Food & Beverages,North,3.0,38.37,115.11,Home Office
+2024-03-12,Smart Fitness Watch,Electronics,South,2.0,185.77,371.54,Home Office
+2024-03-13,Gaming Mouse,Electronics,West,1.0,49.96,49.96,Corporate
+2024-03-14,Waterproof Laptop Backpack,Accessories,South,1.0,68.97,68.97,Consumer
+2024-03-14,Wooden Bookshelf,Furniture,East,1.0,139.61,139.61,Corporate
+2024-03-14,Laptop Pro 15,Electronics,East,1.0,928.97,928.97,Consumer
+2024-03-14,Gourmet Snack Basket,Food & Beverages,West,1.0,36.79,36.79,Corporate
+2024-03-16,4K Smart Monitor,Electronics,East,1.0,325.46,325.46,Consumer
+2024-03-16,Winter Hooded Jacket,Clothing,South,2.0,115.4,230.8,Consumer
+2024-03-17,Wireless Earbuds,Electronics,South,4.0,90.33,361.32,Consumer
+2024-03-17,Smartphone X,Electronics,West,1.0,701.62,701.62,Consumer
+2024-03-17,Cotton Crew T-Shirt,Clothing,East,12.0,24.84,298.08,Consumer
+2024-03-17,Leather Travel Wallet,Accessories,South,10.0,41.62,416.2,Home Office
+2024-03-18,Athletic Running Shoes,Clothing,North,4.0,82.85,331.4,Home Office
+2024-03-18,Polarized Sunglasses,Accessories,South,1.0,63.03,63.03,Home Office
+2024-03-19,Smart Fitness Watch,Electronics,West,2.0,176.87,353.74,Corporate
+2024-03-19,Green Tea Herbal Box,Food & Beverages,East,1.0,17.17,17.17,Corporate
+2024-03-19,Waterproof Laptop Backpack,Accessories,East,2.0,67.98,135.96,Corporate
+2024-03-19,Wireless Earbuds,Electronics,North,1.0,85.61,85.61,Consumer
+2024-03-19,Smart Fitness Watch,Electronics,East,1.0,179.44,179.44,Home Office
+2024-03-19,Insulated Thermal Flask,Accessories,North,2.0,28.33,56.66,Corporate
+2024-03-20,Organic Coffee Roast 1kg,Food & Beverages,West,3.0,25.87,77.61,Corporate
+2024-03-21,Waterproof Laptop Backpack,Accessories,South,1.0,67.07,67.07,Corporate
+2024-03-22,Laptop Pro 15,Electronics,West,2.0,974.5,1949.0,Consumer
+2024-03-22,Athletic Running Shoes,Clothing,South,1.0,89.16,89.16,Consumer
+2024-03-24,Polarized Sunglasses,Accessories,South,2.0,64.58,129.16,Home Office
+2024-03-26,Winter Hooded Jacket,Clothing,North,5.0,114.35,571.75,Home Office
+2024-03-26,Laptop Pro 15,Electronics,South,5.0,961.01,4805.05,Corporate
+2024-03-29,Premium Dark Chocolate,Food & Beverages,East,6.0,22.26,133.56,Home Office
+2024-03-29,Gaming Mouse,Electronics,West,5.0,49.39,246.95,Consumer
+2024-03-29,Gourmet Snack Basket,Food & Beverages,East,1.0,39.67,39.67,Home Office
+2024-03-30,Adjustable Standing Desk,Furniture,West,2.0,348.3,696.6,Home Office
+2024-03-31,Athletic Running Shoes,Clothing,North,1.0,84.62,84.62,Consumer
+2024-03-31,Winter Hooded Jacket,Clothing,West,3.0,116.13,348.39,Corporate
+2024-04-03,Adjustable Standing Desk,Furniture,West,4.0,347.75,1391.0,Corporate
+2024-04-04,Insulated Thermal Flask,Accessories,West,1.0,28.19,28.19,Corporate
+2024-04-05,Gourmet Snack Basket,Food & Beverages,South,1.0,38.85,38.85,Home Office
+2024-04-05,Denim Jeans,Clothing,West,6.0,57.59,345.54,Consumer
+2024-04-06,Organic Coffee Roast 1kg,Food & Beverages,East,3.0,25.82,77.46,Consumer
+2024-04-06,Adjustable Standing Desk,Furniture,North,1.0,356.07,356.07,Consumer
+2024-04-07,Laptop Pro 15,Electronics,South,3.0,984.95,2954.85,Consumer
+2024-04-07,Gourmet Snack Basket,Food & Beverages,East,3.0,39.41,118.23,Home Office
+2024-04-07,Smartphone X,Electronics,North,1.0,653.34,653.34,Home Office
+2024-04-07,Insulated Thermal Flask,Accessories,West,5.0,28.35,141.75,Corporate
+2024-04-07,Wooden Bookshelf,Furniture,West,8.0,144.94,1159.52,Home Office
+2024-04-08,Gaming Mouse,Electronics,South,4.0,49.59,198.36,Consumer
+2024-04-09,Adjustable Standing Desk,Furniture,East,2.0,365.28,730.56,Corporate
+2024-04-09,Ergonomic Office Chair,Furniture,South,5.0,235.54,1177.7,Corporate
+2024-04-10,Adjustable Standing Desk,Furniture,South,4.0,346.4,1385.6,Corporate
+2024-04-11,Smartphone X,Electronics,North,2.0,703.24,1406.48,Consumer
+2024-04-11,Polarized Sunglasses,Accessories,South,5.0,64.84,324.2,Consumer
+2024-04-11,Gaming Mouse,Electronics,North,8.0,47.29,378.32,Corporate
+2024-04-12,Formal Oxford Shirt,Clothing,South,3.0,48.19,144.57,Corporate
+2024-04-13,Wooden Bookshelf,Furniture,East,1.0,142.22,142.22,Consumer
+2024-04-14,Wireless Earbuds,Electronics,West,2.0,86.96,173.92,Corporate
+2024-04-14,Gaming Mouse,Electronics,East,2.0,49.55,99.1,Corporate
+2024-04-15,Gourmet Snack Basket,Food & Beverages,East,4.0,37.69,150.76,Home Office
+2024-04-15,Formal Oxford Shirt,Clothing,North,2.0,48.69,97.38,Corporate
+2024-04-15,Wooden Bookshelf,Furniture,North,1.0,140.56,140.56,Home Office
+2024-04-16,Organic Coffee Roast 1kg,Food & Beverages,East,5.0,26.75,133.75,Home Office
+2024-04-16,Organic Coffee Roast 1kg,Food & Beverages,West,6.0,26.32,157.92,Corporate
+2024-04-17,Waterproof Laptop Backpack,Accessories,North,2.0,66.5,133.0,Corporate
+2024-04-18,Gourmet Snack Basket,Food & Beverages,West,6.0,37.99,227.94,Home Office
+2024-04-18,Polarized Sunglasses,Accessories,East,1.0,66.87,66.87,Consumer
+2024-04-19,Wooden Bookshelf,Furniture,East,3.0,145.56,436.68,Home Office
+2024-04-20,Leather Travel Wallet,Accessories,West,1.0,41.35,41.35,Consumer
+2024-04-20,Smartphone X,Electronics,West,3.0,651.18,1953.54,Home Office
+2024-04-22,Green Tea Herbal Box,Food & Beverages,South,3.0,17.83,53.49,Corporate
+2024-04-22,Polarized Sunglasses,Accessories,North,1.0,66.02,66.02,Consumer
+2024-04-22,Organic Coffee Roast 1kg,Food & Beverages,North,1.0,26.21,26.21,Corporate
+2024-04-22,Organic Coffee Roast 1kg,Food & Beverages,North,3.0,24.72,74.16,Corporate
+2024-04-24,Adjustable Standing Desk,Furniture,North,3.0,366.84,1100.52,Corporate
+2024-04-25,Modular 2-Seat Sofa,Furniture,North,1.0,500.04,500.04,Home Office
+2024-04-25,Green Tea Herbal Box,Food & Beverages,East,2.0,18.87,37.74,Consumer
+2024-04-27,Adjustable Standing Desk,Furniture,East,3.0,338.47,1015.41,Consumer
+2024-04-29,Denim Jeans,Clothing,East,4.0,53.93,215.72,Corporate
+2024-04-30,Insulated Thermal Flask,Accessories,North,1.0,28.44,28.44,Consumer
+2024-04-30,Wireless Earbuds,Electronics,West,2.0,90.95,181.9,Home Office
+2024-05-01,Premium Dark Chocolate,Food & Beverages,East,2.0,22.28,44.56,Home Office
+2024-05-02,Premium Dark Chocolate,Food & Beverages,North,1.0,21.62,21.62,Consumer
+2024-05-02,Smart Fitness Watch,Electronics,East,1.0,172.21,172.21,Home Office
+2024-05-02,Wireless Earbuds,Electronics,South,2.0,89.38,178.76,Consumer
+2024-05-02,Organic Coffee Roast 1kg,Food & Beverages,South,2.0,26.74,53.48,Corporate
+2024-05-03,Leather Travel Wallet,Accessories,South,3.0,42.33,126.99,Consumer
+2024-05-03,Organic Coffee Roast 1kg,Food & Beverages,West,1.0,25.7,25.7,Consumer
+2024-05-04,Adjustable Standing Desk,Furniture,North,6.0,362.81,2176.86,Corporate
+2024-05-05,Adjustable Standing Desk,Furniture,East,1.0,350.5,350.5,Home Office
+2024-05-05,Formal Oxford Shirt,Clothing,West,1.0,47.64,47.64,Consumer
+2024-05-05,Smart Fitness Watch,Electronics,South,1.0,171.29,171.29,Consumer
+2024-05-06,Leather Travel Wallet,Accessories,South,2.0,41.9,83.8,Corporate
+2024-05-07,Polarized Sunglasses,Accessories,North,2.0,62.73,125.46,Corporate
+2024-05-08,Gourmet Snack Basket,Food & Beverages,East,1.0,37.61,37.61,Consumer
+2024-05-08,Smartphone X,Electronics,East,2.0,662.11,1324.22,Consumer
+2024-05-08,Laptop Pro 15,Electronics,North,1.0,951.91,951.91,Home Office
+2024-05-09,Adjustable Standing Desk,Furniture,North,2.0,357.51,715.02,Home Office
+2024-05-10,4K Smart Monitor,Electronics,North,10.0,356.53,3565.3,Corporate
+2024-05-10,Modular 2-Seat Sofa,Furniture,South,1.0,514.33,514.33,Consumer
+2024-05-11,Formal Oxford Shirt,Clothing,East,1.0,50.07,50.07,Consumer
+2024-05-11,Smartphone X,Electronics,West,1.0,651.34,651.34,Corporate
+2024-05-12,Smartphone X,Electronics,South,1.0,657.4,657.4,Corporate
+2024-05-13,Modular 2-Seat Sofa,Furniture,East,3.0,541.97,1625.91,Corporate
+2024-05-13,Denim Jeans,Clothing,West,3.0,53.48,160.44,Corporate
+2024-05-14,Wireless Earbuds,Electronics,West,4.0,88.13,352.52,Consumer
+2024-05-14,Winter Hooded Jacket,Clothing,North,5.0,116.63,583.15,Consumer
+2024-05-14,Waterproof Laptop Backpack,Accessories,East,8.0,67.82,542.56,Home Office
+2024-05-15,4K Smart Monitor,Electronics,South,5.0,349.6,1748.0,Consumer
+2024-05-15,Polarized Sunglasses,Accessories,North,1.0,63.04,63.04,Corporate
+2024-05-15,Gourmet Snack Basket,Food & Beverages,East,1.0,36.47,36.47,Home Office
+2024-05-15,Organic Coffee Roast 1kg,Food & Beverages,West,10.0,24.8,248.0,Consumer
+2024-05-17,Smart Fitness Watch,Electronics,West,4.0,174.9,699.6,Home Office
+2024-05-18,Wireless Earbuds,Electronics,South,1.0,92.69,92.69,Corporate
+2024-05-19,Green Tea Herbal Box,Food & Beverages,North,2.0,18.22,36.44,Corporate
+2024-05-19,Denim Jeans,Clothing,South,10.0,57.58,575.8,Home Office
+2024-05-20,Premium Dark Chocolate,Food & Beverages,West,1.0,21.59,21.59,Corporate
+2024-05-20,Polarized Sunglasses,Accessories,East,2.0,61.33,122.66,Corporate
+2024-05-23,Winter Hooded Jacket,Clothing,North,2.0,125.6,251.2,Home Office
+2024-05-23,Leather Travel Wallet,Accessories,North,6.0,40.66,243.96,Consumer
+2024-05-23,Cotton Crew T-Shirt,Clothing,West,3.0,22.96,68.88,Home Office
+2024-05-24,4K Smart Monitor,Electronics,North,3.0,350.26,1050.78,Corporate
+2024-05-24,Athletic Running Shoes,Clothing,North,1.0,86.46,86.46,Home Office
+2024-05-24,Denim Jeans,Clothing,East,1.0,52.86,52.86,Home Office
+2024-05-25,Modular 2-Seat Sofa,Furniture,East,4.0,536.13,2144.52,Consumer
+2024-05-26,Wooden Bookshelf,Furniture,West,5.0,139.93,699.65,Home Office
+2024-05-26,Gaming Mouse,Electronics,West,1.0,47.29,47.29,Corporate
+2024-05-26,Gourmet Snack Basket,Food & Beverages,West,2.0,37.72,75.44,Consumer
+2024-05-26,Denim Jeans,Clothing,North,1.0,55.2,55.2,Consumer
+2024-05-27,4K Smart Monitor,Electronics,North,5.0,339.11,1695.55,Consumer
+2024-05-28,Premium Dark Chocolate,Food & Beverages,East,1.0,22.88,22.88,Home Office
+2024-05-28,Insulated Thermal Flask,Accessories,East,2.0,28.67,57.34,Corporate
+2024-05-30,Gaming Mouse,Electronics,South,2.0,47.81,95.62,Corporate
+2024-05-31,Cotton Crew T-Shirt,Clothing,South,2.0,23.07,46.14,Consumer
+2024-05-31,Wireless Earbuds,Electronics,East,1.0,92.56,92.56,Consumer
+2024-05-31,Gourmet Snack Basket,Food & Beverages,West,5.0,36.97,184.85,Consumer
+2024-06-01,Gourmet Snack Basket,Food & Beverages,West,1.0,38.62,38.62,Home Office
+2024-06-01,Formal Oxford Shirt,Clothing,East,3.0,48.16,144.48,Home Office
+2024-06-01,Wooden Bookshelf,Furniture,South,1.0,145.58,145.58,Corporate
+2024-06-02,Green Tea Herbal Box,Food & Beverages,West,1.0,18.57,18.57,Home Office
+2024-06-03,Smart Fitness Watch,Electronics,West,3.0,175.27,525.81,Home Office
+2024-06-03,Premium Dark Chocolate,Food & Beverages,North,3.0,21.24,63.72,Corporate
+2024-06-03,Winter Hooded Jacket,Clothing,North,3.0,120.15,360.45,Home Office
+2024-06-04,Insulated Thermal Flask,Accessories,South,1.0,28.89,28.89,Home Office
+2024-06-05,4K Smart Monitor,Electronics,South,2.0,326.3,652.6,Corporate
+2024-06-06,Smartphone X,Electronics,East,8.0,667.98,5343.84,Consumer
+2024-06-07,Denim Jeans,Clothing,East,1.0,52.41,52.41,Corporate
+2024-06-08,Insulated Thermal Flask,Accessories,East,1.0,28.85,28.85,Corporate
+2024-06-09,Gourmet Snack Basket,Food & Beverages,East,4.0,36.19,144.76,Consumer
+2024-06-09,Premium Dark Chocolate,Food & Beverages,West,1.0,22.3,22.3,Home Office
+2024-06-10,Denim Jeans,Clothing,South,1.0,56.84,56.84,Home Office
+2024-06-10,Wireless Earbuds,Electronics,West,4.0,88.72,354.88,Corporate
+2024-06-10,Laptop Pro 15,Electronics,West,6.0,979.27,5875.62,Home Office
+2024-06-12,Waterproof Laptop Backpack,Accessories,West,3.0,69.41,208.23,Corporate
+2024-06-12,4K Smart Monitor,Electronics,North,1.0,326.56,326.56,Corporate
+2024-06-12,Formal Oxford Shirt,Clothing,West,2.0,47.72,95.44,Consumer
+2024-06-12,Gourmet Snack Basket,Food & Beverages,East,2.0,36.58,73.16,Corporate
+2024-06-12,Adjustable Standing Desk,Furniture,South,1.0,352.84,352.84,Corporate
+2024-06-13,Smartphone X,Electronics,North,3.0,689.6,2068.8,Home Office
+2024-06-13,Organic Coffee Roast 1kg,Food & Beverages,East,2.0,24.83,49.66,Consumer
+2024-06-13,Athletic Running Shoes,Clothing,East,4.0,85.06,340.24,Consumer
+2024-06-14,Winter Hooded Jacket,Clothing,North,1.0,122.41,122.41,Consumer
+2024-06-14,4K Smart Monitor,Electronics,East,1.0,329.66,329.66,Corporate
+2024-06-15,Laptop Pro 15,Electronics,West,5.0,971.58,4857.9,Consumer
+2024-06-16,Wireless Earbuds,Electronics,West,1.0,93.0,93.0,Home Office
+2024-06-16,Polarized Sunglasses,Accessories,South,3.0,63.65,190.95,Corporate
+2024-06-17,Organic Coffee Roast 1kg,Food & Beverages,East,2.0,25.15,50.3,Home Office
+2024-06-18,Organic Coffee Roast 1kg,Food & Beverages,West,2.0,25.08,50.16,Consumer
+2024-06-19,Gaming Mouse,Electronics,South,1.0,49.24,49.24,Consumer
+2024-06-20,Gourmet Snack Basket,Food & Beverages,North,6.0,38.51,231.06,Consumer
+2024-06-21,Leather Travel Wallet,Accessories,West,1.0,39.96,39.96,Consumer
+2024-06-21,Smart Fitness Watch,Electronics,West,1.0,181.93,181.93,Consumer
+2024-06-22,Polarized Sunglasses,Accessories,North,3.0,65.08,195.24,Corporate
+2024-06-22,Wooden Bookshelf,Furniture,North,4.0,140.55,562.2,Home Office
+2024-06-22,Gourmet Snack Basket,Food & Beverages,South,4.0,36.86,147.44,Home Office
+2024-06-23,Waterproof Laptop Backpack,Accessories,East,1.0,70.95,70.95,Home Office
+2024-06-23,Formal Oxford Shirt,Clothing,East,2.0,48.61,97.22,Home Office
+2024-06-23,Leather Travel Wallet,Accessories,West,1.0,42.32,42.32,Corporate
+2024-06-24,Denim Jeans,Clothing,West,3.0,56.92,170.76,Corporate
+2024-06-24,Smart Fitness Watch,Electronics,South,8.0,170.76,1366.08,Home Office
+2024-06-25,Formal Oxford Shirt,Clothing,North,1.0,49.17,49.17,Corporate
+2024-06-26,Wooden Bookshelf,Furniture,South,1.0,145.8,145.8,Consumer
+2024-06-26,Laptop Pro 15,Electronics,East,8.0,934.98,7479.84,Consumer
+2024-06-28,Gaming Mouse,Electronics,West,1.0,49.18,49.18,Home Office
+2024-06-29,Formal Oxford Shirt,Clothing,West,4.0,48.46,193.84,Home Office
+2024-06-29,Gourmet Snack Basket,Food & Beverages,West,1.0,36.42,36.42,Consumer
+2024-06-29,Insulated Thermal Flask,Accessories,East,1.0,28.92,28.92,Home Office
+2024-06-30,Wooden Bookshelf,Furniture,North,8.0,138.25,1106.0,Corporate
+2024-06-30,Insulated Thermal Flask,Accessories,East,3.0,27.54,82.62,Home Office
+2024-06-30,Leather Travel Wallet,Accessories,East,2.0,40.1,80.2,Corporate
+2024-07-01,Adjustable Standing Desk,Furniture,West,3.0,361.54,1084.62,Consumer
+2024-07-02,Smart Fitness Watch,Electronics,South,3.0,178.55,535.65,Corporate
+2024-07-03,Ergonomic Office Chair,Furniture,South,1.0,222.56,222.56,Consumer
+2024-07-03,Wireless Earbuds,Electronics,East,1.0,92.51,92.51,Home Office
+2024-07-03,Green Tea Herbal Box,Food & Beverages,North,1.0,17.93,17.93,Corporate
+2024-07-04,4K Smart Monitor,Electronics,West,3.0,325.77,977.31,Home Office
+2024-07-04,Modular 2-Seat Sofa,Furniture,South,1.0,495.26,495.26,Corporate
+2024-07-04,4K Smart Monitor,Electronics,South,1.0,340.09,340.09,Corporate
+2024-07-04,Organic Coffee Roast 1kg,Food & Beverages,West,8.0,26.62,212.96,Consumer
+2024-07-06,Smartphone X,Electronics,South,4.0,711.62,2846.48,Corporate
+2024-07-06,Adjustable Standing Desk,Furniture,East,3.0,348.03,1044.09,Home Office
+2024-07-06,Adjustable Standing Desk,Furniture,North,4.0,358.91,1435.64,Corporate
+2024-07-07,Organic Coffee Roast 1kg,Food & Beverages,South,4.0,24.98,99.92,Home Office
+2024-07-07,Waterproof Laptop Backpack,Accessories,East,3.0,69.72,209.16,Consumer
+2024-07-07,Winter Hooded Jacket,Clothing,South,1.0,125.64,125.64,Corporate
+2024-07-08,Insulated Thermal Flask,Accessories,East,1.0,27.63,27.63,Home Office
+2024-07-09,Winter Hooded Jacket,Clothing,North,3.0,122.16,366.48,Consumer
+2024-07-09,Wireless Earbuds,Electronics,North,1.0,90.85,90.85,Home Office
+2024-07-09,Formal Oxford Shirt,Clothing,West,1.0,46.14,46.14,Consumer
+2024-07-10,Green Tea Herbal Box,Food & Beverages,North,2.0,18.76,37.52,Home Office
+2024-07-10,Athletic Running Shoes,Clothing,North,3.0,82.79,248.37,Home Office
+2024-07-10,Smart Fitness Watch,Electronics,North,3.0,181.35,544.05,Corporate
+2024-07-10,Insulated Thermal Flask,Accessories,South,5.0,28.65,143.25,Corporate
+2024-07-10,Premium Dark Chocolate,Food & Beverages,North,2.0,21.96,43.92,Corporate
+2024-07-11,Adjustable Standing Desk,Furniture,East,1.0,359.48,359.48,Consumer
+2024-07-11,Denim Jeans,Clothing,West,3.0,54.04,162.12,Corporate
+2024-07-13,Leather Travel Wallet,Accessories,East,1.0,43.41,43.41,Corporate
+2024-07-13,Adjustable Standing Desk,Furniture,East,5.0,353.41,1767.05,Corporate
+2024-07-13,Winter Hooded Jacket,Clothing,East,1.0,118.67,118.67,Corporate
+2024-07-13,Winter Hooded Jacket,Clothing,West,8.0,122.2,977.6,Home Office
+2024-07-13,Adjustable Standing Desk,Furniture,East,4.0,349.78,1399.12,Corporate
+2024-07-13,Modular 2-Seat Sofa,Furniture,East,5.0,511.58,2557.9,Home Office
+2024-07-14,4K Smart Monitor,Electronics,South,2.0,351.1,702.2,Corporate
+2024-07-14,Gaming Mouse,Electronics,South,3.0,47.3,141.9,Consumer
+2024-07-14,Insulated Thermal Flask,Accessories,South,2.0,28.35,56.7,Corporate
+2024-07-15,Formal Oxford Shirt,Clothing,South,2.0,48.8,97.6,Consumer
+2024-07-16,Wooden Bookshelf,Furniture,South,4.0,134.68,538.72,Consumer
+2024-07-17,Insulated Thermal Flask,Accessories,East,3.0,27.86,83.58,Home Office
+2024-07-17,Premium Dark Chocolate,Food & Beverages,North,5.0,22.76,113.8,Corporate
+2024-07-19,Formal Oxford Shirt,Clothing,South,1.0,47.76,47.76,Corporate
+2024-07-21,Cotton Crew T-Shirt,Clothing,West,2.0,23.59,47.18,Consumer
+2024-07-21,Polarized Sunglasses,Accessories,South,1.0,61.99,61.99,Corporate
+2024-07-21,Insulated Thermal Flask,Accessories,East,1.0,29.39,29.39,Corporate
+2024-07-22,Green Tea Herbal Box,Food & Beverages,West,1.0,17.38,17.38,Corporate
+2024-07-22,4K Smart Monitor,Electronics,West,4.0,349.85,1399.4,Consumer
+2024-07-23,Waterproof Laptop Backpack,Accessories,North,6.0,65.54,393.24,Consumer
+2024-07-24,Premium Dark Chocolate,Food & Beverages,North,2.0,22.0,44.0,Consumer
+2024-07-24,Modular 2-Seat Sofa,Furniture,North,1.0,507.01,507.01,Corporate
+2024-07-24,Gourmet Snack Basket,Food & Beverages,South,2.0,38.35,76.7,Corporate
+2024-07-24,Waterproof Laptop Backpack,Accessories,North,1.0,69.23,69.23,Home Office
+2024-07-25,4K Smart Monitor,Electronics,South,1.0,334.06,334.06,Consumer
+2024-07-25,Denim Jeans,Clothing,West,3.0,55.2,165.6,Home Office
+2024-07-26,Laptop Pro 15,Electronics,West,12.0,965.37,11584.44,Home Office
+2024-07-26,Gourmet Snack Basket,Food & Beverages,West,5.0,37.95,189.75,Consumer
+2024-07-26,Athletic Running Shoes,Clothing,South,8.0,86.92,695.36,Home Office
+2024-07-27,Cotton Crew T-Shirt,Clothing,South,2.0,25.13,50.26,Consumer
+2024-07-28,Leather Travel Wallet,Accessories,West,1.0,42.38,42.38,Corporate
+2024-07-28,Smartphone X,Electronics,North,6.0,652.21,3913.26,Corporate
+2024-07-28,Insulated Thermal Flask,Accessories,North,4.0,28.55,114.2,Consumer
+2024-07-28,Insulated Thermal Flask,Accessories,North,2.0,28.26,56.52,Corporate
+2024-07-29,Waterproof Laptop Backpack,Accessories,South,2.0,66.55,133.1,Home Office
+2024-07-30,Athletic Running Shoes,Clothing,West,8.0,82.89,663.12,Home Office
+2024-07-30,Gourmet Snack Basket,Food & Beverages,North,4.0,38.83,155.32,Consumer
+2024-07-30,Gourmet Snack Basket,Food & Beverages,North,1.0,39.1,39.1,Corporate
+2024-07-31,Premium Dark Chocolate,Food & Beverages,North,3.0,21.84,65.52,Consumer
+2024-07-31,Wireless Earbuds,Electronics,North,10.0,88.36,883.6,Corporate
+2024-08-02,Organic Coffee Roast 1kg,Food & Beverages,West,2.0,25.05,50.1,Corporate
+2024-08-02,Wireless Earbuds,Electronics,North,3.0,86.08,258.24,Corporate
+2024-08-03,Winter Hooded Jacket,Clothing,South,5.0,120.85,604.25,Corporate
+2024-08-03,Wireless Earbuds,Electronics,West,1.0,91.86,91.86,Corporate
+2024-08-03,Insulated Thermal Flask,Accessories,South,3.0,27.99,83.97,Corporate
+2024-08-03,Wireless Earbuds,Electronics,East,3.0,87.19,261.57,Corporate
+2024-08-04,Gaming Mouse,Electronics,South,1.0,51.3,51.3,Corporate
+2024-08-04,Wireless Earbuds,Electronics,South,1.0,85.94,85.94,Consumer
+2024-08-04,Smartphone X,Electronics,North,1.0,650.32,650.32,Consumer
+2024-08-04,Cotton Crew T-Shirt,Clothing,West,12.0,23.22,278.64,Consumer
+2024-08-05,Polarized Sunglasses,Accessories,West,1.0,61.53,61.53,Consumer
+2024-08-05,Formal Oxford Shirt,Clothing,South,4.0,45.71,182.84,Corporate
+2024-08-07,Athletic Running Shoes,Clothing,South,1.0,83.33,83.33,Consumer
+2024-08-07,Athletic Running Shoes,Clothing,East,2.0,88.22,176.44,Corporate
+2024-08-07,Wooden Bookshelf,Furniture,East,6.0,144.52,867.12,Consumer
+2024-08-07,Organic Coffee Roast 1kg,Food & Beverages,West,10.0,27.21,272.1,Consumer
+2024-08-07,Leather Travel Wallet,Accessories,North,2.0,40.29,80.58,Home Office
+2024-08-08,Winter Hooded Jacket,Clothing,East,1.0,125.15,125.15,Corporate
+2024-08-08,Insulated Thermal Flask,Accessories,West,1.0,27.13,27.13,Home Office
+2024-08-08,Adjustable Standing Desk,Furniture,South,3.0,351.26,1053.78,Home Office
+2024-08-08,Insulated Thermal Flask,Accessories,East,1.0,28.64,28.64,Home Office
+2024-08-08,4K Smart Monitor,Electronics,East,8.0,338.16,2705.28,Consumer
+2024-08-08,Leather Travel Wallet,Accessories,South,1.0,41.0,41.0,Corporate
+2024-08-08,Gourmet Snack Basket,Food & Beverages,East,1.0,37.06,37.06,Corporate
+2024-08-09,Smartphone X,Electronics,North,1.0,706.98,706.98,Home Office
+2024-08-09,Ergonomic Office Chair,Furniture,South,1.0,233.43,233.43,Home Office
+2024-08-09,Green Tea Herbal Box,Food & Beverages,South,2.0,17.32,34.64,Home Office
+2024-08-10,4K Smart Monitor,Electronics,East,1.0,341.4,341.4,Consumer
+2024-08-10,Athletic Running Shoes,Clothing,West,1.0,84.91,84.91,Home Office
+2024-08-10,Laptop Pro 15,Electronics,East,8.0,976.14,7809.12,Home Office
+2024-08-11,Athletic Running Shoes,Clothing,South,8.0,88.86,710.88,Consumer
+2024-08-11,Adjustable Standing Desk,Furniture,East,3.0,345.41,1036.23,Consumer
+2024-08-11,Wireless Earbuds,Electronics,West,1.0,93.12,93.12,Corporate
+2024-08-12,Ergonomic Office Chair,Furniture,South,2.0,228.56,457.12,Corporate
+2024-08-13,Modular 2-Seat Sofa,Furniture,North,3.0,502.47,1507.41,Home Office
+2024-08-14,4K Smart Monitor,Electronics,North,5.0,339.06,1695.3,Home Office
+2024-08-14,Polarized Sunglasses,Accessories,East,3.0,66.32,198.96,Home Office
+2024-08-14,Wooden Bookshelf,Furniture,North,1.0,140.15,140.15,Consumer
+2024-08-14,Wooden Bookshelf,Furniture,West,6.0,135.95,815.7,Home Office
+2024-08-14,Denim Jeans,Clothing,West,4.0,52.28,209.12,Consumer
+2024-08-14,Denim Jeans,Clothing,West,1.0,55.5,55.5,Home Office
+2024-08-15,Organic Coffee Roast 1kg,Food & Beverages,West,2.0,26.09,52.18,Corporate
+2024-08-16,Ergonomic Office Chair,Furniture,West,1.0,228.79,228.79,Corporate
+2024-08-16,Polarized Sunglasses,Accessories,West,2.0,64.21,128.42,Corporate
+2024-08-16,Ergonomic Office Chair,Furniture,East,1.0,228.48,228.48,Home Office
+2024-08-17,Smart Fitness Watch,Electronics,South,10.0,181.69,1816.9,Consumer
+2024-08-17,Laptop Pro 15,Electronics,South,3.0,969.77,2909.31,Home Office
+2024-08-17,4K Smart Monitor,Electronics,North,2.0,336.03,672.06,Consumer
+2024-08-17,Adjustable Standing Desk,Furniture,North,2.0,347.16,694.32,Home Office
+2024-08-19,Insulated Thermal Flask,Accessories,South,1.0,29.2,29.2,Consumer
+2024-08-19,Winter Hooded Jacket,Clothing,North,1.0,117.88,117.88,Consumer
+2024-08-19,Modular 2-Seat Sofa,Furniture,West,1.0,519.62,519.62,Corporate
+2024-08-19,Smartphone X,Electronics,East,4.0,659.61,2638.44,Consumer
+2024-08-20,Organic Coffee Roast 1kg,Food & Beverages,South,2.0,25.74,51.48,Home Office
+2024-08-20,Cotton Crew T-Shirt,Clothing,East,4.0,23.66,94.64,Home Office
+2024-08-20,Polarized Sunglasses,Accessories,West,8.0,64.47,515.76,Home Office
+2024-08-21,Smartphone X,Electronics,West,1.0,705.9,705.9,Home Office
+2024-08-22,Organic Coffee Roast 1kg,Food & Beverages,North,5.0,24.76,123.8,Home Office
+2024-08-22,Denim Jeans,Clothing,North,1.0,53.77,53.77,Consumer
+2024-08-22,Laptop Pro 15,Electronics,East,1.0,958.19,958.19,Corporate
+2024-08-23,Smart Fitness Watch,Electronics,West,12.0,174.2,2090.4,Corporate
+2024-08-23,Wireless Earbuds,Electronics,West,3.0,88.27,264.81,Consumer
+2024-08-24,Insulated Thermal Flask,Accessories,North,1.0,28.51,28.51,Corporate
+2024-08-25,Leather Travel Wallet,Accessories,East,1.0,42.67,42.67,Corporate
+2024-08-25,Wireless Earbuds,Electronics,West,1.0,92.83,92.83,Corporate
+2024-08-25,Smart Fitness Watch,Electronics,South,5.0,186.53,932.65,Consumer
+2024-08-25,Leather Travel Wallet,Accessories,South,1.0,42.46,42.46,Corporate
+2024-08-26,Denim Jeans,Clothing,West,5.0,56.54,282.7,Corporate
+2024-08-27,4K Smart Monitor,Electronics,East,2.0,355.21,710.42,Consumer
+2024-08-28,Smartphone X,Electronics,East,1.0,673.4,673.4,Consumer
+2024-08-28,Waterproof Laptop Backpack,Accessories,North,1.0,64.99,64.99,Corporate
+2024-08-28,Adjustable Standing Desk,Furniture,East,1.0,345.25,345.25,Corporate
+2024-08-29,Wooden Bookshelf,Furniture,South,1.0,139.33,139.33,Consumer
+2024-08-30,Waterproof Laptop Backpack,Accessories,South,1.0,66.02,66.02,Corporate
+2024-08-31,Cotton Crew T-Shirt,Clothing,East,2.0,23.38,46.76,Home Office
+2024-08-31,Modular 2-Seat Sofa,Furniture,West,3.0,503.07,1509.21,Home Office
+2024-08-31,Polarized Sunglasses,Accessories,West,1.0,63.93,63.93,Corporate
+2024-09-01,Leather Travel Wallet,Accessories,East,10.0,43.42,434.2,Corporate
+2024-09-01,Premium Dark Chocolate,Food & Beverages,South,1.0,23.03,23.03,Home Office
+2024-09-02,Gourmet Snack Basket,Food & Beverages,East,4.0,39.43,157.72,Home Office
+2024-09-04,Cotton Crew T-Shirt,Clothing,East,1.0,24.71,24.71,Home Office
+2024-09-04,Adjustable Standing Desk,Furniture,East,4.0,342.36,1369.44,Home Office
+2024-09-05,Adjustable Standing Desk,Furniture,North,4.0,352.14,1408.56,Consumer
+2024-09-05,Gourmet Snack Basket,Food & Beverages,South,2.0,37.13,74.26,Consumer
+2024-09-06,Wooden Bookshelf,Furniture,West,2.0,139.28,278.56,Consumer
+2024-09-06,Gourmet Snack Basket,Food & Beverages,West,1.0,37.54,37.54,Consumer
+2024-09-06,Smart Fitness Watch,Electronics,North,2.0,175.52,351.04,Corporate
+2024-09-07,Smartphone X,Electronics,North,1.0,675.04,675.04,Home Office
+2024-09-07,Organic Coffee Roast 1kg,Food & Beverages,West,1.0,27.03,27.03,Consumer
+2024-09-08,Cotton Crew T-Shirt,Clothing,South,6.0,23.81,142.86,Corporate
+2024-09-08,Smartphone X,Electronics,South,1.0,679.43,679.43,Home Office
+2024-09-09,Smart Fitness Watch,Electronics,West,1.0,176.42,176.42,Corporate
+2024-09-09,Gourmet Snack Basket,Food & Beverages,East,2.0,39.85,79.7,Corporate
+2024-09-09,Cotton Crew T-Shirt,Clothing,South,1.0,25.08,25.08,Corporate
+2024-09-09,Polarized Sunglasses,Accessories,West,2.0,62.44,124.88,Consumer
+2024-09-10,Ergonomic Office Chair,Furniture,West,4.0,228.93,915.72,Home Office
+2024-09-11,Denim Jeans,Clothing,East,3.0,55.97,167.91,Home Office
+2024-09-12,Formal Oxford Shirt,Clothing,West,1.0,49.49,49.49,Consumer
+2024-09-13,Smartphone X,Electronics,South,2.0,682.96,1365.92,Home Office
+2024-09-13,Modular 2-Seat Sofa,Furniture,North,2.0,527.15,1054.3,Home Office
+2024-09-14,Smart Fitness Watch,Electronics,South,5.0,187.05,935.25,Home Office
+2024-09-14,Formal Oxford Shirt,Clothing,North,6.0,50.04,300.24,Home Office
+2024-09-14,Cotton Crew T-Shirt,Clothing,South,1.0,24.76,24.76,Home Office
+2024-09-15,Polarized Sunglasses,Accessories,West,1.0,66.34,66.34,Consumer
+2024-09-16,Premium Dark Chocolate,Food & Beverages,West,3.0,22.03,66.09,Home Office
+2024-09-16,Modular 2-Seat Sofa,Furniture,West,1.0,538.97,538.97,Consumer
+2024-09-16,Wooden Bookshelf,Furniture,North,1.0,141.26,141.26,Corporate
+2024-09-17,Denim Jeans,Clothing,South,3.0,55.39,166.17,Consumer
+2024-09-18,Formal Oxford Shirt,Clothing,North,3.0,46.06,138.18,Corporate
+2024-09-18,Ergonomic Office Chair,Furniture,East,2.0,237.14,474.28,Home Office
+2024-09-18,Polarized Sunglasses,Accessories,South,1.0,64.27,64.27,Corporate
+2024-09-18,Smartphone X,Electronics,West,1.0,673.08,673.08,Consumer
+2024-09-18,Premium Dark Chocolate,Food & Beverages,South,10.0,21.43,214.3,Corporate
+2024-09-19,Premium Dark Chocolate,Food & Beverages,North,2.0,22.92,45.84,Home Office
+2024-09-19,Laptop Pro 15,Electronics,South,1.0,938.34,938.34,Home Office
+2024-09-20,4K Smart Monitor,Electronics,South,1.0,335.07,335.07,Home Office
+2024-09-20,Ergonomic Office Chair,Furniture,West,2.0,234.13,468.26,Corporate
+2024-09-20,Athletic Running Shoes,Clothing,South,1.0,84.84,84.84,Corporate
+2024-09-21,Cotton Crew T-Shirt,Clothing,South,1.0,25.17,25.17,Consumer
+2024-09-24,Gourmet Snack Basket,Food & Beverages,West,3.0,37.99,113.97,Home Office
+2024-09-24,4K Smart Monitor,Electronics,North,2.0,326.45,652.9,Consumer
+2024-09-25,Smart Fitness Watch,Electronics,East,8.0,180.9,1447.2,Corporate
+2024-09-26,Ergonomic Office Chair,Furniture,East,2.0,228.53,457.06,Corporate
+2024-09-27,Denim Jeans,Clothing,South,1.0,55.23,55.23,Home Office
+2024-09-28,Green Tea Herbal Box,Food & Beverages,North,1.0,18.02,18.02,Consumer
+2024-09-28,Leather Travel Wallet,Accessories,South,4.0,40.84,163.36,Corporate
+2024-09-28,Smartphone X,Electronics,South,1.0,709.73,709.73,Home Office
+2024-09-30,Wooden Bookshelf,Furniture,North,1.0,135.97,135.97,Home Office
+2024-09-30,Wireless Earbuds,Electronics,South,1.0,89.17,89.17,Home Office
+2024-10-01,Ergonomic Office Chair,Furniture,East,1.0,239.26,239.26,Home Office
+2024-10-01,Premium Dark Chocolate,Food & Beverages,West,3.0,22.65,67.95,Home Office
+2024-10-01,Premium Dark Chocolate,Food & Beverages,North,3.0,22.14,66.42,Corporate
+2024-10-01,Smart Fitness Watch,Electronics,West,2.0,182.21,364.42,Home Office
+2024-10-01,Athletic Running Shoes,Clothing,North,2.0,82.32,164.64,Corporate
+2024-10-02,Polarized Sunglasses,Accessories,East,2.0,65.52,131.04,Corporate
+2024-10-02,Gourmet Snack Basket,Food & Beverages,East,3.0,38.77,116.31,Home Office
+2024-10-02,Cotton Crew T-Shirt,Clothing,East,2.0,24.14,48.28,Home Office
+2024-10-02,Organic Coffee Roast 1kg,Food & Beverages,East,2.0,26.59,53.18,Corporate
+2024-10-03,Green Tea Herbal Box,Food & Beverages,North,1.0,17.15,17.15,Home Office
+2024-10-03,Smart Fitness Watch,Electronics,North,1.0,183.68,183.68,Home Office
+2024-10-03,Gaming Mouse,Electronics,North,1.0,47.88,47.88,Home Office
+2024-10-03,Cotton Crew T-Shirt,Clothing,South,1.0,24.51,24.51,Corporate
+2024-10-03,Ergonomic Office Chair,Furniture,South,1.0,235.67,235.67,Home Office
+2024-10-04,Smartphone X,Electronics,South,3.0,665.04,1995.12,Home Office
+2024-10-04,Wooden Bookshelf,Furniture,West,2.0,133.08,266.16,Home Office
+2024-10-04,Green Tea Herbal Box,Food & Beverages,North,1.0,17.15,17.15,Consumer
+2024-10-04,Modular 2-Seat Sofa,Furniture,North,4.0,508.29,2033.16,Home Office
+2024-10-04,Gaming Mouse,Electronics,East,4.0,49.78,199.12,Corporate
+2024-10-04,Gourmet Snack Basket,Food & Beverages,South,4.0,39.51,158.04,Corporate
+2024-10-04,Athletic Running Shoes,Clothing,North,8.0,85.86,686.88,Corporate
+2024-10-05,Laptop Pro 15,Electronics,North,2.0,924.02,1848.04,Consumer
+2024-10-05,Wireless Earbuds,Electronics,East,2.0,90.94,181.88,Consumer
+2024-10-05,Adjustable Standing Desk,Furniture,West,1.0,366.65,366.65,Corporate
+2024-10-05,Leather Travel Wallet,Accessories,West,1.0,40.52,40.52,Home Office
+2024-10-05,Athletic Running Shoes,Clothing,South,2.0,85.98,171.96,Home Office
+2024-10-05,Gaming Mouse,Electronics,East,4.0,47.61,190.44,Consumer
+2024-10-06,Organic Coffee Roast 1kg,Food & Beverages,South,2.0,26.49,52.98,Consumer
+2024-10-06,Winter Hooded Jacket,Clothing,East,2.0,117.29,234.58,Corporate
+2024-10-07,Premium Dark Chocolate,Food & Beverages,West,8.0,21.93,175.44,Corporate
+2024-10-07,Gourmet Snack Basket,Food & Beverages,South,4.0,38.19,152.76,Consumer
+2024-10-08,Leather Travel Wallet,Accessories,East,2.0,40.54,81.08,Consumer
+2024-10-08,Modular 2-Seat Sofa,Furniture,North,1.0,535.33,535.33,Consumer
+2024-10-08,Modular 2-Seat Sofa,Furniture,South,3.0,519.77,1559.31,Corporate
+2024-10-08,Smartphone X,Electronics,West,3.0,707.81,2123.43,Consumer
+2024-10-08,Polarized Sunglasses,Accessories,West,6.0,65.25,391.5,Corporate
+2024-10-08,Insulated Thermal Flask,Accessories,East,3.0,27.17,81.51,Corporate
+2024-10-08,Waterproof Laptop Backpack,Accessories,East,2.0,68.97,137.94,Consumer
+2024-10-09,Modular 2-Seat Sofa,Furniture,South,3.0,527.15,1581.45,Consumer
+2024-10-09,Formal Oxford Shirt,Clothing,West,1.0,46.1,46.1,Corporate
+2024-10-09,Polarized Sunglasses,Accessories,North,3.0,65.62,196.86,Corporate
+2024-10-09,Wooden Bookshelf,Furniture,East,2.0,134.37,268.74,Home Office
+2024-10-09,Wireless Earbuds,Electronics,North,3.0,86.66,259.98,Corporate
+2024-10-09,Modular 2-Seat Sofa,Furniture,South,2.0,507.43,1014.86,Corporate
+2024-10-09,Insulated Thermal Flask,Accessories,North,2.0,26.7,53.4,Consumer
+2024-10-09,Denim Jeans,Clothing,South,10.0,53.08,530.8,Home Office
+2024-10-10,Adjustable Standing Desk,Furniture,West,1.0,358.08,358.08,Home Office
+2024-10-10,Denim Jeans,Clothing,South,2.0,57.13,114.26,Corporate
+2024-10-11,Wooden Bookshelf,Furniture,West,1.0,134.71,134.71,Consumer
+2024-10-12,Adjustable Standing Desk,Furniture,South,5.0,365.61,1828.05,Corporate
+2024-10-12,Athletic Running Shoes,Clothing,West,3.0,82.77,248.31,Consumer
+2024-10-12,Leather Travel Wallet,Accessories,South,3.0,43.24,129.72,Home Office
+2024-10-12,4K Smart Monitor,Electronics,West,6.0,352.83,2116.98,Consumer
+2024-10-13,Winter Hooded Jacket,Clothing,North,1.0,118.16,118.16,Home Office
+2024-10-13,Wireless Earbuds,Electronics,West,1.0,91.79,91.79,Home Office
+2024-10-13,Premium Dark Chocolate,Food & Beverages,South,1.0,22.23,22.23,Home Office
+2024-10-14,Premium Dark Chocolate,Food & Beverages,West,4.0,22.85,91.4,Home Office
+2024-10-14,Leather Travel Wallet,Accessories,North,1.0,43.64,43.64,Home Office
+2024-10-14,Premium Dark Chocolate,Food & Beverages,East,1.0,21.31,21.31,Corporate
+2024-10-14,Laptop Pro 15,Electronics,South,4.0,953.92,3815.68,Home Office
+2024-10-15,Gourmet Snack Basket,Food & Beverages,East,4.0,36.81,147.24,Home Office
+2024-10-15,Laptop Pro 15,Electronics,East,3.0,952.19,2856.57,Corporate
+2024-10-15,Gourmet Snack Basket,Food & Beverages,South,1.0,36.39,36.39,Home Office
+2024-10-15,Laptop Pro 15,Electronics,East,1.0,925.6,925.6,Home Office
+2024-10-15,Premium Dark Chocolate,Food & Beverages,East,8.0,22.75,182.0,Home Office
+2024-10-15,Gourmet Snack Basket,Food & Beverages,East,1.0,37.51,37.51,Corporate
+2024-10-16,Organic Coffee Roast 1kg,Food & Beverages,South,3.0,26.53,79.59,Corporate
+2024-10-16,Wireless Earbuds,Electronics,South,8.0,89.21,713.68,Home Office
+2024-10-16,Athletic Running Shoes,Clothing,South,2.0,88.69,177.38,Corporate
+2024-10-16,Athletic Running Shoes,Clothing,South,6.0,85.55,513.3,Consumer
+2024-10-16,Adjustable Standing Desk,Furniture,East,8.0,338.99,2711.92,Consumer
+2024-10-17,Smartphone X,Electronics,South,2.0,647.53,1295.06,Consumer
+2024-10-17,Winter Hooded Jacket,Clothing,South,3.0,124.46,373.38,Corporate
+2024-10-17,Denim Jeans,Clothing,South,2.0,55.61,111.22,Home Office
+2024-10-18,Wireless Earbuds,Electronics,East,3.0,90.84,272.52,Home Office
+2024-10-18,Modular 2-Seat Sofa,Furniture,North,3.0,507.51,1522.53,Corporate
+2024-10-18,Leather Travel Wallet,Accessories,North,2.0,43.07,86.14,Home Office
+2024-10-19,Insulated Thermal Flask,Accessories,North,1.0,26.85,26.85,Home Office
+2024-10-19,Cotton Crew T-Shirt,Clothing,West,2.0,23.08,46.16,Corporate
+2024-10-19,Athletic Running Shoes,Clothing,West,4.0,88.78,355.12,Home Office
+2024-10-19,Green Tea Herbal Box,Food & Beverages,North,1.0,17.62,17.62,Consumer
+2024-10-19,Organic Coffee Roast 1kg,Food & Beverages,South,1.0,26.82,26.82,Consumer
+2024-10-19,Gaming Mouse,Electronics,East,1.0,50.91,50.91,Corporate
+2024-10-20,Smartphone X,Electronics,South,3.0,682.91,2048.73,Corporate
+2024-10-20,Wireless Earbuds,Electronics,East,10.0,85.76,857.6,Home Office
+2024-10-20,Adjustable Standing Desk,Furniture,West,2.0,354.85,709.7,Consumer
+2024-10-20,Gaming Mouse,Electronics,North,12.0,46.79,561.48,Home Office
+2024-10-20,Premium Dark Chocolate,Food & Beverages,North,1.0,23.07,23.07,Consumer
+2024-10-20,Green Tea Herbal Box,Food & Beverages,North,1.0,17.3,17.3,Consumer
+2024-10-21,Polarized Sunglasses,Accessories,West,3.0,63.28,189.84,Corporate
+2024-10-21,Athletic Running Shoes,Clothing,North,1.0,82.12,82.12,Corporate
+2024-10-21,Premium Dark Chocolate,Food & Beverages,East,6.0,22.12,132.72,Home Office
+2024-10-23,Gaming Mouse,Electronics,North,1.0,49.89,49.89,Corporate
+2024-10-23,Formal Oxford Shirt,Clothing,West,10.0,47.49,474.9,Corporate
+2024-10-23,Formal Oxford Shirt,Clothing,South,1.0,49.91,49.91,Corporate
+2024-10-24,Athletic Running Shoes,Clothing,East,2.0,86.05,172.1,Consumer
+2024-10-24,Formal Oxford Shirt,Clothing,West,2.0,49.77,99.54,Corporate
+2024-10-24,Cotton Crew T-Shirt,Clothing,North,2.0,24.32,48.64,Consumer
+2024-10-24,4K Smart Monitor,Electronics,West,1.0,330.55,330.55,Consumer
+2024-10-25,Smartphone X,Electronics,South,1.0,697.0,697.0,Home Office
+2024-10-25,Formal Oxford Shirt,Clothing,North,2.0,47.0,94.0,Consumer
+2024-10-25,Wooden Bookshelf,Furniture,South,1.0,137.73,137.73,Consumer
+2024-10-26,Wireless Earbuds,Electronics,East,2.0,85.09,170.18,Home Office
+2024-10-26,Wooden Bookshelf,Furniture,East,3.0,144.98,434.94,Consumer
+2024-10-26,Premium Dark Chocolate,Food & Beverages,West,3.0,21.87,65.61,Corporate
+2024-10-26,Leather Travel Wallet,Accessories,West,2.0,40.94,81.88,Home Office
+2024-10-26,Premium Dark Chocolate,Food & Beverages,East,4.0,22.46,89.84,Corporate
+2024-10-27,Wireless Earbuds,Electronics,East,3.0,91.87,275.61,Corporate
+2024-10-27,Wireless Earbuds,Electronics,North,3.0,86.98,260.94,Consumer
+2024-10-27,Organic Coffee Roast 1kg,Food & Beverages,South,3.0,26.41,79.23,Corporate
+2024-10-27,Winter Hooded Jacket,Clothing,North,5.0,119.91,599.55,Corporate
+2024-10-28,Insulated Thermal Flask,Accessories,West,5.0,27.8,139.0,Home Office
+2024-10-28,Denim Jeans,Clothing,West,1.0,55.12,55.12,Consumer
+2024-10-29,Wooden Bookshelf,Furniture,North,2.0,133.95,267.9,Consumer
+2024-10-29,Gaming Mouse,Electronics,East,1.0,49.47,49.47,Consumer
+2024-11-01,Green Tea Herbal Box,Food & Beverages,North,3.0,17.59,52.77,Home Office
+2024-11-01,Waterproof Laptop Backpack,Accessories,South,1.0,64.88,64.88,Home Office
+2024-11-01,Modular 2-Seat Sofa,Furniture,West,4.0,523.04,2092.16,Consumer
+2024-11-01,Smartphone X,Electronics,South,2.0,707.28,1414.56,Consumer
+2024-11-01,Green Tea Herbal Box,Food & Beverages,West,2.0,17.58,35.16,Consumer
+2024-11-02,Athletic Running Shoes,Clothing,West,3.0,81.14,243.42,Home Office
+2024-11-02,Winter Hooded Jacket,Clothing,West,1.0,115.91,115.91,Corporate
+2024-11-02,Athletic Running Shoes,Clothing,South,1.0,82.37,82.37,Corporate
+2024-11-03,4K Smart Monitor,Electronics,South,1.0,352.53,352.53,Consumer
+2024-11-03,Smartphone X,Electronics,North,1.0,679.67,679.67,Consumer
+2024-11-04,Green Tea Herbal Box,Food & Beverages,East,8.0,17.97,143.76,Home Office
+2024-11-04,Leather Travel Wallet,Accessories,South,1.0,42.0,42.0,Home Office
+2024-11-05,Smartphone X,Electronics,West,1.0,658.47,658.47,Home Office
+2024-11-05,Green Tea Herbal Box,Food & Beverages,South,8.0,17.13,137.04,Home Office
+2024-11-05,Winter Hooded Jacket,Clothing,South,1.0,125.53,125.53,Home Office
+2024-11-06,Smart Fitness Watch,Electronics,East,1.0,174.42,174.42,Consumer
+2024-11-06,Adjustable Standing Desk,Furniture,East,5.0,360.83,1804.15,Home Office
+2024-11-07,Modular 2-Seat Sofa,Furniture,South,1.0,509.98,509.98,Home Office
+2024-11-07,Ergonomic Office Chair,Furniture,East,1.0,239.85,239.85,Corporate
+2024-11-07,Winter Hooded Jacket,Clothing,West,3.0,115.28,345.84,Corporate
+2024-11-07,Formal Oxford Shirt,Clothing,East,8.0,46.84,374.72,Corporate
+2024-11-07,Leather Travel Wallet,Accessories,West,3.0,44.06,132.18,Home Office
+2024-11-08,Ergonomic Office Chair,Furniture,North,1.0,226.06,226.06,Home Office
+2024-11-08,Smart Fitness Watch,Electronics,South,5.0,187.67,938.35,Consumer
+2024-11-08,Modular 2-Seat Sofa,Furniture,South,6.0,512.11,3072.66,Home Office
+2024-11-08,Wireless Earbuds,Electronics,East,5.0,91.72,458.6,Corporate
+2024-11-09,Wooden Bookshelf,Furniture,West,4.0,140.77,563.08,Consumer
+2024-11-09,Insulated Thermal Flask,Accessories,South,2.0,28.55,57.1,Corporate
+2024-11-09,Wireless Earbuds,Electronics,West,3.0,86.66,259.98,Consumer
+2024-11-09,Smartphone X,Electronics,South,1.0,669.2,669.2,Home Office
+2024-11-10,Waterproof Laptop Backpack,Accessories,West,2.0,69.85,139.7,Consumer
+2024-11-10,Wooden Bookshelf,Furniture,South,1.0,146.11,146.11,Home Office
+2024-11-10,Gaming Mouse,Electronics,East,1.0,50.46,50.46,Home Office
+2024-11-11,Wireless Earbuds,Electronics,North,1.0,90.25,90.25,Corporate
+2024-11-11,Wooden Bookshelf,Furniture,South,12.0,138.78,1665.36,Consumer
+2024-11-11,Leather Travel Wallet,Accessories,East,1.0,43.37,43.37,Home Office
+2024-11-12,Formal Oxford Shirt,Clothing,South,1.0,45.78,45.78,Consumer
+2024-11-12,Laptop Pro 15,Electronics,South,1.0,955.12,955.12,Consumer
+2024-11-12,Premium Dark Chocolate,Food & Beverages,East,1.0,21.6,21.6,Home Office
+2024-11-12,Wireless Earbuds,Electronics,East,1.0,87.05,87.05,Corporate
+2024-11-12,Laptop Pro 15,Electronics,West,2.0,995.6,1991.2,Consumer
+2024-11-13,Gaming Mouse,Electronics,East,1.0,47.34,47.34,Corporate
+2024-11-13,Athletic Running Shoes,Clothing,West,3.0,82.58,247.74,Corporate
+2024-11-14,Adjustable Standing Desk,Furniture,West,1.0,355.93,355.93,Home Office
+2024-11-14,Wireless Earbuds,Electronics,East,4.0,91.33,365.32,Corporate
+2024-11-14,Adjustable Standing Desk,Furniture,North,1.0,338.13,338.13,Consumer
+2024-11-15,Cotton Crew T-Shirt,Clothing,West,3.0,25.02,75.06,Home Office
+2024-11-15,Modular 2-Seat Sofa,Furniture,East,1.0,542.72,542.72,Corporate
+2024-11-15,Smartphone X,Electronics,North,5.0,658.05,3290.25,Home Office
+2024-11-16,Gourmet Snack Basket,Food & Beverages,North,8.0,39.39,315.12,Home Office
+2024-11-16,Organic Coffee Roast 1kg,Food & Beverages,North,1.0,26.94,26.94,Home Office
+2024-11-16,Denim Jeans,Clothing,North,2.0,56.75,113.5,Consumer
+2024-11-17,Insulated Thermal Flask,Accessories,West,1.0,29.15,29.15,Home Office
+2024-11-17,Adjustable Standing Desk,Furniture,North,1.0,340.81,340.81,Home Office
+2024-11-17,Leather Travel Wallet,Accessories,East,1.0,40.03,40.03,Corporate
+2024-11-17,Green Tea Herbal Box,Food & Beverages,East,3.0,18.61,55.83,Consumer
+2024-11-17,Waterproof Laptop Backpack,Accessories,East,4.0,65.87,263.48,Corporate
+2024-11-17,Formal Oxford Shirt,Clothing,West,2.0,48.64,97.28,Corporate
+2024-11-17,Organic Coffee Roast 1kg,Food & Beverages,West,4.0,25.16,100.64,Consumer
+2024-11-18,Insulated Thermal Flask,Accessories,West,1.0,28.84,28.84,Consumer
+2024-11-18,Premium Dark Chocolate,Food & Beverages,South,8.0,22.11,176.88,Consumer
+2024-11-18,Green Tea Herbal Box,Food & Beverages,West,2.0,18.52,37.04,Corporate
+2024-11-18,Polarized Sunglasses,Accessories,South,2.0,66.51,133.02,Consumer
+2024-11-19,Winter Hooded Jacket,Clothing,North,2.0,117.28,234.56,Corporate
+2024-11-19,Leather Travel Wallet,Accessories,West,6.0,41.45,248.7,Corporate
+2024-11-19,Smartphone X,Electronics,South,1.0,668.27,668.27,Home Office
+2024-11-20,Modular 2-Seat Sofa,Furniture,East,1.0,520.38,520.38,Consumer
+2024-11-21,Cotton Crew T-Shirt,Clothing,West,10.0,23.78,237.8,Corporate
+2024-11-21,Athletic Running Shoes,Clothing,East,1.0,85.17,85.17,Corporate
+2024-11-22,Gaming Mouse,Electronics,South,1.0,49.65,49.65,Home Office
+2024-11-22,Smart Fitness Watch,Electronics,North,5.0,184.37,921.85,Corporate
+2024-11-22,4K Smart Monitor,Electronics,South,3.0,342.32,1026.96,Corporate
+2024-11-22,Organic Coffee Roast 1kg,Food & Beverages,South,3.0,25.83,77.49,Home Office
+2024-11-23,Winter Hooded Jacket,Clothing,South,2.0,125.41,250.82,Consumer
+2024-11-23,Modular 2-Seat Sofa,Furniture,South,4.0,519.92,2079.68,Home Office
+2024-11-23,Green Tea Herbal Box,Food & Beverages,East,1.0,18.67,18.67,Consumer
+2024-11-23,Wireless Earbuds,Electronics,West,2.0,86.71,173.42,Corporate
+2024-11-23,Wireless Earbuds,Electronics,North,3.0,88.57,265.71,Consumer
+2024-11-24,Insulated Thermal Flask,Accessories,East,1.0,27.38,27.38,Consumer
+2024-11-24,Premium Dark Chocolate,Food & Beverages,South,4.0,21.47,85.88,Consumer
+2024-11-24,Wooden Bookshelf,Furniture,East,1.0,135.47,135.47,Corporate
+2024-11-25,Cotton Crew T-Shirt,Clothing,North,2.0,23.76,47.52,Corporate
+2024-11-25,Modular 2-Seat Sofa,Furniture,South,2.0,529.98,1059.96,Consumer
+2024-11-25,Waterproof Laptop Backpack,Accessories,North,3.0,67.11,201.33,Corporate
+2024-11-25,Gaming Mouse,Electronics,East,4.0,50.77,203.08,Consumer
+2024-11-25,Gaming Mouse,Electronics,South,3.0,50.3,150.9,Consumer
+2024-11-25,Organic Coffee Roast 1kg,Food & Beverages,West,2.0,25.95,51.9,Consumer
+2024-11-26,Cotton Crew T-Shirt,Clothing,West,2.0,23.11,46.22,Corporate
+2024-11-26,Modular 2-Seat Sofa,Furniture,North,4.0,535.96,2143.84,Home Office
+2024-11-26,Organic Coffee Roast 1kg,Food & Beverages,South,1.0,25.6,25.6,Home Office
+2024-11-27,Modular 2-Seat Sofa,Furniture,North,1.0,510.4,510.4,Corporate
+2024-11-27,Athletic Running Shoes,Clothing,North,3.0,83.79,251.37,Home Office
+2024-11-27,Premium Dark Chocolate,Food & Beverages,West,2.0,21.94,43.88,Consumer
+2024-11-27,Formal Oxford Shirt,Clothing,East,1.0,45.95,45.95,Home Office
+2024-11-27,Denim Jeans,Clothing,East,2.0,55.08,110.16,Home Office
+2024-11-27,Organic Coffee Roast 1kg,Food & Beverages,North,1.0,26.58,26.58,Corporate
+2024-11-28,Ergonomic Office Chair,Furniture,North,1.0,239.81,239.81,Home Office
+2024-11-28,Wireless Earbuds,Electronics,East,3.0,89.02,267.06,Corporate
+2024-11-28,Insulated Thermal Flask,Accessories,East,1.0,26.89,26.89,Corporate
+2024-11-28,Gaming Mouse,Electronics,South,1.0,47.18,47.18,Consumer
+2024-11-29,Winter Hooded Jacket,Clothing,South,2.0,114.94,229.88,Home Office
+2024-11-30,Formal Oxford Shirt,Clothing,North,2.0,47.58,95.16,Consumer
+2024-11-30,Organic Coffee Roast 1kg,Food & Beverages,South,1.0,26.58,26.58,Corporate
+2024-11-30,Formal Oxford Shirt,Clothing,North,12.0,47.28,567.36,Corporate
+2024-11-30,Cotton Crew T-Shirt,Clothing,North,2.0,24.26,48.52,Home Office
+2024-11-30,Insulated Thermal Flask,Accessories,East,5.0,28.11,140.55,Home Office
+2024-12-01,Waterproof Laptop Backpack,Accessories,West,8.0,70.1,560.8,Consumer
+2024-12-01,Waterproof Laptop Backpack,Accessories,East,1.0,70.24,70.24,Consumer
+2024-12-01,Premium Dark Chocolate,Food & Beverages,South,8.0,21.11,168.88,Consumer
+2024-12-01,Premium Dark Chocolate,Food & Beverages,South,2.0,21.73,43.46,Home Office
+2024-12-01,4K Smart Monitor,Electronics,North,4.0,334.9,1339.6,Consumer
+2024-12-02,4K Smart Monitor,Electronics,East,1.0,355.75,355.75,Home Office
+2024-12-02,Premium Dark Chocolate,Food & Beverages,East,1.0,22.66,22.66,Consumer
+2024-12-02,4K Smart Monitor,Electronics,North,5.0,352.49,1762.45,Home Office
+2024-12-02,Formal Oxford Shirt,Clothing,North,3.0,50.07,150.21,Consumer
+2024-12-02,Winter Hooded Jacket,Clothing,North,2.0,125.92,251.84,Consumer
+2024-12-02,Athletic Running Shoes,Clothing,West,1.0,85.21,85.21,Corporate
+2024-12-03,Leather Travel Wallet,Accessories,East,1.0,42.71,42.71,Home Office
+2024-12-03,Gaming Mouse,Electronics,North,1.0,47.42,47.42,Home Office
+2024-12-03,Cotton Crew T-Shirt,Clothing,East,1.0,23.11,23.11,Home Office
+2024-12-03,Winter Hooded Jacket,Clothing,North,2.0,124.1,248.2,Consumer
+2024-12-03,Gourmet Snack Basket,Food & Beverages,South,4.0,37.46,149.84,Corporate
+2024-12-04,Smart Fitness Watch,Electronics,South,1.0,179.64,179.64,Consumer
+2024-12-04,Organic Coffee Roast 1kg,Food & Beverages,East,3.0,25.91,77.73,Home Office
+2024-12-04,Leather Travel Wallet,Accessories,West,8.0,43.64,349.12,Corporate
+2024-12-04,Waterproof Laptop Backpack,Accessories,West,1.0,65.01,65.01,Consumer
+2024-12-04,Gaming Mouse,Electronics,East,6.0,48.33,289.98,Consumer
+2024-12-05,Athletic Running Shoes,Clothing,East,1.0,86.42,86.42,Corporate
+2024-12-05,Waterproof Laptop Backpack,Accessories,North,1.0,67.96,67.96,Consumer
+2024-12-05,Smart Fitness Watch,Electronics,East,1.0,176.05,176.05,Home Office
+2024-12-05,Adjustable Standing Desk,Furniture,South,5.0,357.13,1785.65,Home Office
+2024-12-05,Organic Coffee Roast 1kg,Food & Beverages,East,1.0,26.15,26.15,Corporate
+2024-12-05,Athletic Running Shoes,Clothing,West,1.0,86.74,86.74,Corporate
+2024-12-06,Wireless Earbuds,Electronics,West,4.0,85.35,341.4,Consumer
+2024-12-06,Smart Fitness Watch,Electronics,West,4.0,170.76,683.04,Corporate
+2024-12-07,Leather Travel Wallet,Accessories,East,3.0,43.27,129.81,Home Office
+2024-12-07,Adjustable Standing Desk,Furniture,West,3.0,356.85,1070.55,Corporate
+2024-12-07,Formal Oxford Shirt,Clothing,West,1.0,46.06,46.06,Consumer
+2024-12-07,Cotton Crew T-Shirt,Clothing,West,2.0,23.65,47.3,Home Office
+2024-12-08,Premium Dark Chocolate,Food & Beverages,West,10.0,22.06,220.6,Home Office
+2024-12-08,Gourmet Snack Basket,Food & Beverages,South,4.0,36.38,145.52,Home Office
+2024-12-08,Laptop Pro 15,Electronics,West,1.0,957.89,957.89,Consumer
+2024-12-08,Organic Coffee Roast 1kg,Food & Beverages,South,1.0,24.75,24.75,Consumer
+2024-12-09,Wireless Earbuds,Electronics,West,2.0,91.2,182.4,Consumer
+2024-12-09,Athletic Running Shoes,Clothing,East,1.0,80.81,80.81,Consumer
+2024-12-09,Insulated Thermal Flask,Accessories,North,2.0,28.17,56.34,Home Office
+2024-12-09,Ergonomic Office Chair,Furniture,North,5.0,227.78,1138.9,Corporate
+2024-12-09,Smartphone X,Electronics,North,6.0,662.29,3973.74,Home Office
+2024-12-09,4K Smart Monitor,Electronics,East,1.0,348.68,348.68,Home Office
+2024-12-10,Smartphone X,Electronics,North,1.0,656.62,656.62,Consumer
+2024-12-10,Wooden Bookshelf,Furniture,East,2.0,145.28,290.56,Home Office
+2024-12-10,Waterproof Laptop Backpack,Accessories,East,1.0,68.17,68.17,Home Office
+2024-12-10,Waterproof Laptop Backpack,Accessories,South,6.0,70.68,424.08,Consumer
+2024-12-10,Modular 2-Seat Sofa,Furniture,West,1.0,525.74,525.74,Home Office
+2024-12-11,Winter Hooded Jacket,Clothing,North,2.0,119.81,239.62,Corporate
+2024-12-11,Cotton Crew T-Shirt,Clothing,North,4.0,23.11,92.44,Consumer
+2024-12-11,Smart Fitness Watch,Electronics,West,1.0,172.98,172.98,Home Office
+2024-12-11,Cotton Crew T-Shirt,Clothing,West,4.0,23.82,95.28,Consumer
+2024-12-11,Adjustable Standing Desk,Furniture,East,8.0,352.64,2821.12,Home Office
+2024-12-12,Gaming Mouse,Electronics,East,1.0,46.64,46.64,Home Office
+2024-12-12,Waterproof Laptop Backpack,Accessories,East,4.0,66.96,267.84,Consumer
+2024-12-12,Leather Travel Wallet,Accessories,West,4.0,40.45,161.8,Home Office
+2024-12-12,Gaming Mouse,Electronics,North,2.0,50.78,101.56,Consumer
+2024-12-13,Leather Travel Wallet,Accessories,West,1.0,41.44,41.44,Corporate
+2024-12-13,Winter Hooded Jacket,Clothing,North,1.0,122.36,122.36,Home Office
+2024-12-13,Winter Hooded Jacket,Clothing,South,1.0,122.06,122.06,Corporate
+2024-12-13,Waterproof Laptop Backpack,Accessories,East,2.0,70.39,140.78,Consumer
+2024-12-13,Premium Dark Chocolate,Food & Beverages,South,1.0,21.06,21.06,Home Office
+2024-12-13,Organic Coffee Roast 1kg,Food & Beverages,North,3.0,24.92,74.76,Corporate
+2024-12-13,Modular 2-Seat Sofa,Furniture,East,2.0,526.35,1052.7,Corporate
+2024-12-13,Smartphone X,Electronics,South,1.0,667.9,667.9,Consumer
+2024-12-14,Laptop Pro 15,Electronics,South,4.0,916.74,3666.96,Corporate
+2024-12-14,Wireless Earbuds,Electronics,West,5.0,89.17,445.85,Home Office
+2024-12-14,Leather Travel Wallet,Accessories,North,1.0,42.39,42.39,Consumer
+2024-12-14,Laptop Pro 15,Electronics,East,5.0,990.64,4953.2,Consumer
+2024-12-14,Adjustable Standing Desk,Furniture,North,1.0,332.88,332.88,Home Office
+2024-12-14,Premium Dark Chocolate,Food & Beverages,North,3.0,22.01,66.03,Consumer
+2024-12-15,Smart Fitness Watch,Electronics,North,1.0,181.54,181.54,Corporate
+2024-12-15,Smartphone X,Electronics,North,3.0,657.36,1972.08,Home Office
+2024-12-15,Leather Travel Wallet,Accessories,South,2.0,43.2,86.4,Home Office
+2024-12-15,Adjustable Standing Desk,Furniture,North,1.0,335.28,335.28,Corporate
+2024-12-15,4K Smart Monitor,Electronics,East,2.0,346.9,693.8,Home Office
+2024-12-16,Premium Dark Chocolate,Food & Beverages,West,4.0,22.43,89.72,Home Office
+2024-12-16,Polarized Sunglasses,Accessories,West,1.0,64.81,64.81,Corporate
+2024-12-17,Modular 2-Seat Sofa,Furniture,East,5.0,527.85,2639.25,Consumer
+2024-12-17,Smartphone X,Electronics,West,3.0,705.67,2117.01,Corporate
+2024-12-17,Polarized Sunglasses,Accessories,West,4.0,66.86,267.44,Consumer
+2024-12-17,Formal Oxford Shirt,Clothing,West,1.0,50.34,50.34,Home Office
+2024-12-17,Denim Jeans,Clothing,North,2.0,55.44,110.88,Consumer
+2024-12-18,Smart Fitness Watch,Electronics,North,2.0,171.93,343.86,Home Office
+2024-12-18,Insulated Thermal Flask,Accessories,East,2.0,26.73,53.46,Consumer
+2024-12-18,Modular 2-Seat Sofa,Furniture,West,2.0,506.61,1013.22,Corporate
+2024-12-18,Leather Travel Wallet,Accessories,West,2.0,43.33,86.66,Corporate
+2024-12-19,Insulated Thermal Flask,Accessories,North,3.0,27.32,81.96,Consumer
+2024-12-19,Smartphone X,Electronics,West,1.0,685.59,685.59,Home Office
+2024-12-20,Organic Coffee Roast 1kg,Food & Beverages,East,1.0,26.11,26.11,Consumer
+2024-12-20,Smartphone X,Electronics,East,4.0,690.77,2763.08,Home Office
+2024-12-20,Organic Coffee Roast 1kg,Food & Beverages,East,3.0,27.03,81.09,Home Office
+2024-12-20,4K Smart Monitor,Electronics,East,1.0,353.89,353.89,Corporate
+2024-12-20,Smartphone X,Electronics,West,6.0,655.3,3931.8,Corporate
+2024-12-21,Insulated Thermal Flask,Accessories,West,4.0,27.56,110.24,Home Office
+2024-12-21,Leather Travel Wallet,Accessories,East,3.0,39.97,119.91,Consumer
+2024-12-21,Premium Dark Chocolate,Food & Beverages,South,1.0,21.53,21.53,Consumer
+2024-12-21,Laptop Pro 15,Electronics,North,8.0,939.18,7513.44,Corporate
+2024-12-21,Wireless Earbuds,Electronics,North,2.0,88.53,177.06,Consumer
+2024-12-21,Organic Coffee Roast 1kg,Food & Beverages,South,2.0,26.25,52.5,Corporate
+2024-12-21,Formal Oxford Shirt,Clothing,South,2.0,48.07,96.14,Consumer
+2024-12-22,Wireless Earbuds,Electronics,East,10.0,87.55,875.5,Home Office
+2024-12-22,Insulated Thermal Flask,Accessories,South,3.0,28.73,86.19,Corporate
+2024-12-22,Insulated Thermal Flask,Accessories,North,4.0,28.01,112.04,Home Office
+2024-12-22,Denim Jeans,Clothing,West,1.0,55.95,55.95,Consumer
+2024-12-22,4K Smart Monitor,Electronics,South,1.0,350.92,350.92,Consumer
+2024-12-23,Laptop Pro 15,Electronics,South,2.0,926.03,1852.06,Home Office
+2024-12-23,Leather Travel Wallet,Accessories,East,3.0,43.51,130.53,Consumer
+2024-12-23,Leather Travel Wallet,Accessories,North,2.0,43.14,86.28,Consumer
+2024-12-23,Cotton Crew T-Shirt,Clothing,North,1.0,24.91,24.91,Consumer
+2024-12-23,4K Smart Monitor,Electronics,West,2.0,341.55,683.1,Consumer
+2024-12-23,Adjustable Standing Desk,Furniture,North,1.0,353.0,353.0,Corporate
+2024-12-23,Premium Dark Chocolate,Food & Beverages,North,4.0,21.96,87.84,Home Office
+2024-12-24,Leather Travel Wallet,Accessories,West,2.0,41.17,82.34,Consumer
+2024-12-24,Ergonomic Office Chair,Furniture,South,1.0,226.96,226.96,Home Office
+2024-12-24,Athletic Running Shoes,Clothing,East,1.0,88.16,88.16,Corporate
+2024-12-24,Ergonomic Office Chair,Furniture,South,6.0,223.9,1343.4,Corporate
+2024-12-24,Premium Dark Chocolate,Food & Beverages,South,1.0,21.18,21.18,Home Office
+2024-12-25,Organic Coffee Roast 1kg,Food & Beverages,South,1.0,27.09,27.09,Consumer
+2024-12-25,Waterproof Laptop Backpack,Accessories,South,2.0,70.76,141.52,Corporate
+2024-12-25,Green Tea Herbal Box,Food & Beverages,East,1.0,18.03,18.03,Consumer
+2024-12-25,Waterproof Laptop Backpack,Accessories,North,2.0,65.22,130.44,Consumer
+2024-12-26,Winter Hooded Jacket,Clothing,East,1.0,122.34,122.34,Home Office
+2024-12-26,Wireless Earbuds,Electronics,North,3.0,87.2,261.6,Home Office
+2024-12-26,Premium Dark Chocolate,Food & Beverages,North,2.0,21.78,43.56,Consumer
+2024-12-27,Wireless Earbuds,Electronics,North,4.0,85.8,343.2,Consumer
+2024-12-27,Ergonomic Office Chair,Furniture,West,1.0,239.07,239.07,Corporate
+2024-12-27,Green Tea Herbal Box,Food & Beverages,North,3.0,17.48,52.44,Home Office
+2024-12-29,Gaming Mouse,Electronics,North,3.0,47.19,141.57,Consumer
+2024-12-30,Wooden Bookshelf,Furniture,East,1.0,138.04,138.04,Corporate
+2024-12-31,Modular 2-Seat Sofa,Furniture,East,1.0,523.63,523.63,Home Office
+2024-12-31,Gourmet Snack Basket,Food & Beverages,West,1.0,38.9,38.9,Home Office
+2024-12-31,Gourmet Snack Basket,Food & Beverages,West,5.0,37.9,189.5,Corporate
+2024-01-14,Ergonomic Office Chair,Furniture,South,3.0,220.83,662.49,Home Office
+2024-01-14,Formal Oxford Shirt,Clothing,South,5.0,50.19,250.95,Home Office
+2024-01-14,Cotton Crew T-Shirt,Clothing,North,5.0,24.66,123.3,Corporate
+2024-06-15,Laptop Pro 15,Electronics,,2.0,950.0,1900.0,Consumer
+2024-07-20,Cotton Crew T-Shirt,  Clothing  ,South,,24.0,,Consumer
